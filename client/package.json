@@ -1,0 +1,11 @@
+{
+  "name": "shopnova-client",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite preview --host 127.0.0.1 --port 5173 --strictPort"
+  },
+  "devDependencies": {
+    "vite": "^8.3.5"
+  }
+}
